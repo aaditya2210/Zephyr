@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".MainActivity">
+
+    <!--    <ImageView-->
+<!--        android:id="@+id/imageView3"-->
+<!--        android:layout_width="490dp"-->
+<!--        android:layout_height="231dp"-->
+<!--        android:layout_marginStart="1dp"-->
+<!--        android:layout_marginTop="416dp"-->
+<!--        android:layout_marginEnd="1dp"-->
+<!--        android:foregroundGravity="center"-->
+<!--        android:scrollbarSize="5dp"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.504"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:srcCompat="@drawable/name3"-->
+<!--        tools:ignore="ContentDescription" />-->
+
+    <!--    <TextView-->
+<!--        android:id="@+id/textView"-->
+<!--        android:layout_width="222dp"-->
+<!--        android:layout_height="69dp"-->
+<!--        android:fontFamily="@font/roboto_mono_bold"-->
+<!--        android:foregroundGravity="center"-->
+<!--        android:lineSpacingExtra="8sp"-->
+<!--        android:text="zephyr"-->
+<!--        android:textAlignment="center"-->
+<!--        android:textColor="@color/design_default_color_primary"-->
+<!--        android:textSize="48sp"-->
+<!--        android:textStyle="bold"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.497"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/imageView2"-->
+<!--        app:layout_constraintVertical_bias="0.092"-->
+<!--        tools:ignore="TextSizeCheck" />-->
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="554dp"
+        android:layout_height="350dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginEnd="1dp"
+        android:foregroundGravity="center"
+        android:scrollbarSize="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/lg2"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="269dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/archivo_black"
+        android:foregroundGravity="center"
+        android:lineSpacingExtra="8sp"
+        android:text="@string/zephyr"
+        android:textAlignment="center"
+        android:textColor="#9900ff"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2"
+        tools:ignore="TextSizeCheck" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

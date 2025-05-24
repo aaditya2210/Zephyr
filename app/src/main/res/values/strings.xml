@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Zephyr</string>
+    <string name="plan_your_trip">Plan your Trip...</string>
+    <string name="let_s_go">Let\'s Go!</string>
+    <string name="end">End</string>
+    <string name="todo">TODO</string>
+
+    <string name="todo1">TODO</string>
+    <string name="zephyr1">Zephyr</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="next">Next</string>
+    <string name="welcome_to_zephyr">Welcome to Zephyr!</string>
+    <string name="zephyr">Zephyr</string>
+    <string name="zephyrus">zephyr</string>
+    <string name="hyr" />
+    <string name="zep" />
+    <string name="zep1">zep</string>
+    <string name="hyr1">hyr</string>
+    <string name="totot">TODO</string>
+    <string name="not_yet_registered_signup_now">Not yet registered? SignUp Now</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login1">Login</string>
+    <string name="Welcome_back" />
+    <string name="welcome">Welcome Back!</string>
+    <string name="welcome_to">Welcome to zephyr!</string>
+    <string name="plan">Plan your Trip!</string>
+    <string name="title_activity_map" />
+    <string name="name">Ryan Wood</string>
+    <string name="hello">Hello</string>
+    <string name="wood">Wood</string>
+    <string name="ryan">Ryan</string>
+
+
+    <string name="date">A thin wrapper around a millisecond value that allows JDBC to identify this as an SQL DATE
+        value. A milliseconds value represents the number of milliseconds that have passed since January 1, 1970 00:00:00.000 GMT.
+        To conform with the definition of SQL DATE, the millisecond values wrapped by a java.sql.Date instance
+        must be normalized by setting the hours, minutes, seconds, and milliseconds to zero in the particular time zone with which the instance is associated.
+        </string>
+
+    <string name="rating">A RatingBar is an extension of SeekBar and ProgressBar that shows a rating in stars.
+        The user can touch/drag or use arrow keys to set the rating when using the default size RatingBar.
+        The smaller RatingBar style ( R.attr.ratingBarStyleSmall) and the larger indicator-only style
+        (R.attr.ratingBarStyleIndicator) do not support user interaction and should only be used as indicators.
+        When using a RatingBar that supports user interaction, placing widgets to the left or right of the
+        RatingBar is discouraged.</string>
+
+    <string name="edit">A TextView displays text to the user and optionally allows them to edit it.
+        A TextView is a complete text editor, however the basic class is configured to not allow editing.
+        </string>
+
+    <string name="camera">The Android framework includes support for various cameras and camera features
+        available on devices, allowing you to capture pictures and videos in your applications.
+        This document discusses a quick, simple approach to image and video capture and outlines an advanced
+        approach for creating custom camera experiences for your users.</string>
+
+    <string name="recyclerview">RecyclerView is the ViewGroup that contains the views corresponding to your data.
+        Its a view itself so you add RecyclerView into your layout the way you would add any other UI element.
+        Each individual element in the list is defined by a view holder object.
+        RecyclerView is a ViewGroup added to the android studio as a successor of the GridView and ListView.
+        It is an improvement on both of them and can be found in the latest v-7 support packages.
+        It has been created to make possible construction of any lists with XML layouts as an item
+        which can be customized vastly while improving on the efficiency of ListViews and GridViews.
+    </string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="upload_data">Upload Data</string>
+    <string name="enter_topic_name">Enter topic name</string>
+    <string name="enter_description">Enter description</string>
+    <string name="enter_language">Enter language</string>
+    <string name="enter_latitude">enter_latitude</string>
+    <string name="enter_longitude">enter_longitude</string>
+    <string name="save">Save</string>
+    <string name="feedback">Feedback</string>
+    <string name="how_does_the_ev_trip_planner_work">How does the EV trip planner work?\n</string>
+
+</resources>

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "128963047235",
+    "firebase_url": "https://store-data-realtime-4f447-default-rtdb.firebaseio.com",
+    "project_id": "store-data-realtime-4f447",
+    "storage_bucket": "store-data-realtime-4f447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128963047235:android:b8b97b957f1474a2ce49f6",
+        "android_client_info": {
+          "package_name": "com.example.storedatarealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIXp5A2H9kKlkfZGxtpeA0V-npyS2co8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128963047235:android:8e34a6839ab524a5ce49f6",
+        "android_client_info": {
+          "package_name": "com.example.voltify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIXp5A2H9kKlkfZGxtpeA0V-npyS2co8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
